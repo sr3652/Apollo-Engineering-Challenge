@@ -45,7 +45,7 @@ Vehicle attributes:
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/sr3652/Apollo-Engineering-Challenge.git
 ```
 
 ## Install dependencies
