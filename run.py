@@ -230,7 +230,6 @@ def test_update_vehicle(client):
     assert response.json['description'] == "Updated Sedan"
     assert response.json['horse_power'] == 200
 
-# Run tests manually
 if __name__ == '__main__':
     # Create a test client
     with app.test_client() as client:
