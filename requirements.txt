@@ -1,6 +1,5 @@
 Flask
 Flask-SQLAlchemy
-SQLAlchemy
 pytest
 Werkzeug
 pytest-flask
